@@ -1,5 +1,4 @@
 # Sassy CSV
----
 yeah, like, you know
 
 CSV can be parsed so many ways and I wanted to see how well I could comply to the standard.
